@@ -14,6 +14,7 @@ public class Boletín1_1 {
     /**
      * @param args the command line arguments
      */
+    //Modificación de prueba.
     public static void main(String[] args) {
       int base = 4;
       int altura = 3;
