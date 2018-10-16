@@ -8,6 +8,8 @@ package boletín1_2;
 /**
  *
  * @author sgomezpintos
+ * colaborador:iago
+ * 
  */
 public class Boletín1_2 {
 
